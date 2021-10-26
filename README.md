@@ -1,4 +1,4 @@
-# List of data analysis project
+# List of Data Analysis Project
 
 # [Netflix Movies Analysis](https://github.com/aimanraz/netflix-analysis.git)
 A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the [Kaggle](https://www.kaggle.com/chasewillden/netflix-shows). A lot of insight can be obtained after leveraging the dataset.
