@@ -9,3 +9,9 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 Data analysis project that analyze pima indian diabetes dataset. This dataset used for the project is from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 ![](https://github.com/aimanraz/diabetes-analysis/blob/main/histogram.JPG?raw=true)
+
+# More Analysis with Python (coming soon!)
+Stay tune for more interesting analysis! 
+
+# Analysis with Power BI (coming soon!)
+Stay tune for more interesting dashboard! 
