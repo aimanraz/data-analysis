@@ -3,7 +3,7 @@
 # [2021 Chicago Crime Analysis](https://github.com/aimanraz/cgo-crm-analysis.git)
 This time we will used real world data to answer set of question regarding the dataset. Arent ya currious detective? lets trespass this barrier tape.
 
-![]()
+![](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/cr_demo.JPG)
 
 # [Netflix Movies Analysis](https://github.com/aimanraz/netflix-analysis.git)
 A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the [Kaggle](https://www.kaggle.com/chasewillden/netflix-shows). A lot of insight can be obtained after leveraging the dataset.
