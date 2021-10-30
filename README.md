@@ -1,7 +1,7 @@
 # List of Data Analysis Project
 
 # [2021 Chicago Crime Analysis](https://github.com/aimanraz/cgo-crm-analysis.git)
-This time we will used real world data to answer set of question regarding the dataset. Arent ya currious detective? lets trespass this barrier tape.
+This time we will used real world data to answer set of question regarding the dataset. Arent ya currious detective? lets trespass the barrier tape.
 
 ![](https://github.com/aimanraz/cgo-crm-analysis/blob/main/img/cr_demo.JPG)
 
