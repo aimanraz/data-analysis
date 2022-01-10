@@ -1,5 +1,5 @@
 # List of Data Analysis Project
-# [Data Star Capstone Project](https://github.com/aimanraz/datastar_capstone.git)
+# [Data Star @ CADS Capstone Project](https://github.com/aimanraz/datastar_capstone.git)
 This repo will update soon.
 
 # [2021 Chicago Crime Analysis](https://github.com/aimanraz/cgo-crm-analysis.git)
