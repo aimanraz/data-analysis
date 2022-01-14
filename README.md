@@ -1,6 +1,6 @@
 # List of Data Analysis Project
-# [Data Star @ CADS Capstone Project: Customer Analysis](https://github.com/aimanraz/datastar_capstone.git)
-This repo will be updated soon.
+# [Capstone Project: Customer Analysis](https://github.com/aimanraz/datastar_capstone.git)
+Leveraging dataset based on customer demographic. 
 
 # [2021 Chicago Crime Analysis](https://github.com/aimanraz/cgo-crm-analysis.git)
 This time we will use actual-world data to answer a set of questions regarding the dataset. Arent ya curious, detective? Let's trespass the barrier tape.
