@@ -2,6 +2,8 @@
 # [Capstone Project: Customer Analysis](https://github.com/aimanraz/datastar_capstone.git)
 Leveraging dataset based on customer demographic. 
 
+![](https://thumbs.dreamstime.com/b/crowd-wooden-figures-people-concept-business-team-labor-collective-teamwork-employees-human-resource-management-market-150230650.jpg)
+
 # [2021 Chicago Crime Analysis](https://github.com/aimanraz/cgo-crm-analysis.git)
 This time we will use actual-world data to answer a set of questions regarding the dataset. Arent ya curious, detective? Let's trespass the barrier tape.
 
