@@ -1,6 +1,6 @@
 # List of Data Analysis Project
 # [Capstone Project: Customer Analysis](https://github.com/aimanraz/datastar_capstone.git)
-Leveraging dataset based on customer demographic. 
+Leveraging data based on customer demographic. 
 
 ![](https://thumbs.dreamstime.com/b/crowd-wooden-figures-people-concept-business-team-labor-collective-teamwork-employees-human-resource-management-market-150230650.jpg)
 
