@@ -1,6 +1,6 @@
 # List of Data Analysis Project
 
-# [Uber Analysis]()
+# [Uber Data Analysis]()
 Let's find some insight through the dataset from the Uber ride. Many questions can be asked, such as what day most people booked Uber, why that day, which month generated the most revenues, etc.
 
 ![](https://media.giphy.com/media/feOLsVVsYft04/giphy.gif)
