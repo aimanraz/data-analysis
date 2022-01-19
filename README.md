@@ -1,4 +1,10 @@
 # List of Data Analysis Project
+
+# [Uber Analysis]()
+Lets find some insight through dataset from Uber ride. Lot of questions can be asked such as what day that most people booked Uber, why that day, which month generated the most revenues and etc.
+
+![](https://c.tenor.com/fAw7LwzMoCIAAAAM/matt-cutshall-matthew-cutshall.gif)
+
 # [Capstone Project: Customer Analysis](https://github.com/aimanraz/datastar_capstone.git)
 Leveraging data based on customer demographic. 
 
